@@ -33,7 +33,7 @@ gem 'devise', '~> 3.4.1'
 # PeperClip
 gem 'paperclip', '~> 4.2.0'
 # Mansory Rails
-gem 'masonry-rails'
+gem 'masonry-rails', '~> 0.2.4'
 # Acts as voting
 gem 'acts_as_votable', '~> 0.10.0'
 
